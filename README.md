@@ -37,3 +37,12 @@ in open source.
 ## Business Groups
 
 * [Web Standards Group](https://github.com/ucsb-wsg)
+
+## Miscellaneous
+
+* [Sex Info Online](https://github.com/sexinfo)
+
+## Projects
+
+* [GauchoWifi](https://github.com/nguyenmp/GauchoWifi)
+* [GOLDMine](https://github.com/kpavery/goldmine)
