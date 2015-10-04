@@ -17,6 +17,7 @@ in open source.
 * [Center for Spatial Studies](https://github.com/spatial-ucsb)
 * [Computer Science Education Group](https://github.com/ucsb-cs-education)
 * [Computer Security Group](https://github.com/ucsb-seclab)
+* [CS Graduate Representatives](https://github.com/UCSB-CS-Graduate-Representatives/UCSB-CS-Graduate-Representatives.github.io)
 * [Data Science](https://github.com/ucsb-data-science)
 * [Earth Research Institute (Unofficial)](https://github.com/ucsb-eri)
 * [Experimental Cosmology Group](https://github.com/ucsbdeepspace)
@@ -44,5 +45,16 @@ in open source.
 
 ## Projects
 
+* [Auto GOLD](https://github.com/connormulcahey/Auto-GOLD)
+* [GauchoMobile](https://github.com/gonfunko/GauchoMobile)
+* [GauchoScript](https://github.com/Roasbeef/GauchoScript)
 * [GauchoWifi](https://github.com/nguyenmp/GauchoWifi)
 * [GOLDMine](https://github.com/kpavery/goldmine)
+* [GOLD-Plus](https://github.com/bakkot/GOLD-Plus)
+* [GradeMyGold](https://github.com/cbarbello/GradeMyGold)
+* [Grawler](https://github.com/nguyenmp/grawler)
+* [LabMapper](https://github.com/tjk/labmapper)
+* [RateMyGold](https://github.com/cbarbello/RateMyGold)
+* [UCSBClassChecker](https://github.com/nando1/UCSBClassChecker)
+* [UCSBMenuParser](https://github.com/nelsonjchen/UCSBMenuParser)
+* [UCSB Thesis Template](https://github.com/DanielSank/UCSB-thesis-template)
