@@ -7,7 +7,7 @@ in open source.
 
 * [Computer Science](https://github.com/ucsb-cs)
 * [Computer Science (College of Creative Studies)](https://github.com/UCSB-CCS-CS)
-* [Geography](https://github.com/ucsb-geog)
+* [Geography ICM (canonical repository)](https://bitbucket.org/bryankaraffa/ucsb-geog-icm) [archival github clone](https://github.com/ucsb-geog)
 * [Philosophy](https://github.com/ucsbphil)
 
 ## Academic Groups
