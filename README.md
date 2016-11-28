@@ -46,6 +46,7 @@ in open source.
 
 ## Projects
 
+* [Alexandria Digital Library](https://github.com/curationexperts/alexandria)
 * [Auto GOLD](https://github.com/connormulcahey/Auto-GOLD)
 * [GauchoMobile](https://github.com/gonfunko/GauchoMobile)
 * [GauchoScript](https://github.com/Roasbeef/GauchoScript)
