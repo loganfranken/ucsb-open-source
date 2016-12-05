@@ -29,6 +29,7 @@ in open source.
 
 ## Student Groups
 
+* [Associated Students](https://github.com/ASUCSBTech)
 * [Vietnamese Student Association](https://github.com/ucsbvsa)
 
 ## Business Departments
